@@ -1,0 +1,34 @@
+ARVUS PRIVATE RESEARCH LICENSE
+Version 1.0
+
+Copyright (c) 2026 Mohammed Atif
+All Rights Reserved.
+
+This software, including all source code, architecture, systems,
+documentation, designs, workflows, orchestration methods,
+and associated assets related to the ARVUS project,
+is proprietary and confidential.
+
+Permission is NOT granted to:
+- Redistribute the project
+- Commercially use the project
+- Resell any component
+- Reproduce architecture for commercial products
+- Publish modified versions publicly
+- Use the ARVUS branding or identity
+
+You MAY:
+- View the source code if explicitly granted access
+- Contribute privately with written permission
+- Submit ideas or improvements directly to the project owner
+
+Any unauthorized distribution, replication, resale,
+reverse engineering for commercial use, or public deployment
+without explicit written permission from Mohammed Atif
+is strictly prohibited.
+
+This project is provided for private research,
+development, experimentation, and educational purposes only.
+
+For collaboration or licensing inquiries:
+atifviranizoom@gmail.com
