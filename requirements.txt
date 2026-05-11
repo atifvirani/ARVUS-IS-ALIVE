@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+httpx
+chromadb
+playwright
+psutil
+prometheus-fastapi-instrumentator
